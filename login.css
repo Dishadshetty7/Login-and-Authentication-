@@ -3,17 +3,6 @@ body{
    
   background-color:aqua;
 }
-  /* form { */
-   
-    /* width: auto;
-     padding: 10; 
-    margin-top: 200px ;
-    margin-right: auto ;
-    margin-bottom: auto;
-    margin-left: auto;
-    text-align: center; 
-    background-color:white; */
-    /* }   */
  
   .container { 
     border-style: solid;
@@ -22,10 +11,6 @@ body{
     border-radius: 15px;
 
     background-color:white;
-    /* margin-top: 10% ;
-    margin-right:10% ;
-    margin-bottom: auto;
-    margin-left: 25%; */
     margin: 15% 30% auto 30%;
     padding: 10px 10px 10px 10px;
     border-color: black;
